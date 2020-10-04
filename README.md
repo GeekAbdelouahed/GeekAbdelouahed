@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Someone has some experience developing mobile and web applications, with love 😄.
+Someone has some experience developing mobile and web applications, with love :heart_eyes:.
 <br><br>Contact me on <a href="https://www.linkedin.com/in/abdelouahed-medjoudja/">Linkedin</a> || <a href="https://twitter.com/MedAbdelouahed">Twitter</a> || <a href="https://www.facebook.com/AbdelouahedMedjoudja">Facebook</a>
