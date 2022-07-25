@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Abdelouahed ( Wahid ) Medjoudja</h1>
 <h3>A passionate mobile developer from Algeria</h3>
 
-- 🔭 I’m currently working on [Flutter reaction button](https://github.com/GeekAbdelouahed/flutter-reaction-button) and [Flutter places](https://github.com/GeekAbdelouahed/flutter_places)
+- 🔭 I’m currently working on [Flutter reaction button](https://github.com/GeekAbdelouahed/flutter-reaction-button)(https://github.com/GeekAbdelouahed/flutter_places)
 
 - 👨‍💻 All of my projects are available at [https://abdelouahed.netlify.app/](https://abdelouahed.netlify.app/)
 
