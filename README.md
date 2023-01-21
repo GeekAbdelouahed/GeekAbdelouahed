@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Flutter reaction button](https://github.com/GeekAbdelouahed/flutter-reaction-button)
 
-- 👨‍💻 All of my projects are available at [https://abdelouahed.netlify.app/](https://abdelouahed.netlify.app/)
-
 - 💬 Ask me about **Android, Flutter**
 
 - 📫 How to reach me **abdeluached@gmail.com**
