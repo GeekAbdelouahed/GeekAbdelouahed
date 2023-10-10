@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm Abdelouahed ( Wahid ) Medjoudja</h1>
 <h3>A passionate mobile developer from Algeria</h3>
 
-- 🔭 I’m currently working on [Fluvera](https://github.com/GeekAbdelouahed/fluvera), [Flutter reaction button](https://github.com/GeekAbdelouahed/flutter-reaction-button)
+- 🔭 I’m currently working on:
+    - [Flutter reaction button](https://github.com/GeekAbdelouahed/flutter-reaction-button)
+    - [Fluvera](https://github.com/GeekAbdelouahed/fluvera)
 
 - 💬 Ask me about **Android, Flutter**
 
